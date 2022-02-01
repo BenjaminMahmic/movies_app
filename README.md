@@ -1,16 +1,7 @@
 # movies_app
 
-A new Flutter project.
+Simple movie app with dummy data. (Most widget are slivers widgets).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![271963786_359130719376172_6528994193212763418_n](https://user-images.githubusercontent.com/89051381/152036942-714418c4-c5b2-4e19-ad26-d4d09a0a2c94.jpg)
+![272417358_518038256228686_6027516319212330503_n](https://user-images.githubusercontent.com/89051381/152036945-32d474a6-2d3b-4da5-aeab-445a388e0685.jpg)
